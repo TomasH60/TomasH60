@@ -2,8 +2,8 @@
 I specialize in website development and design.
 
 My work:
-[Enpo.sk](https://www.enpo.sk/)
-[PPtechnik](https://pptechnik.sk)
+[Enpo.sk](https://www.enpo.sk/)\
+[PPtechnik](https://pptechnik.sk)\
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tomáš Horička) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:horicka.tomas@gmail.com) 
