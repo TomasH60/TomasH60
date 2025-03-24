@@ -1,9 +1,9 @@
 ## Hi, I'm Tomáš Horička a CS student at [FIIT STU](https://www.fiit.stuba.sk).
 I specialize in website development and design.
 
-My work:
+My work:  \
 [Enpo.sk](https://www.enpo.sk/) \
-[PPtechnik](https://pptechnik.sk) \
+[PPtechnik](https://pptechnik.sk) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomáš-horička-2b8a55229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:horicka.tomas@gmail.com) 
