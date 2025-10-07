@@ -2,7 +2,7 @@
 I specialize in website development and design.
 
 My work:  \
-[A+Z, Rišňovský, Halász, s.r.o.](https://www.azkonzervaren.sk/)
+[A+Z, Rišňovský, Halász, s.r.o.](https://www.azkonzervaren.sk/) \
 [Enpo.sk](https://www.enpo.sk/) \
 [PPtechnik](https://pptechnik.sk) \
 
